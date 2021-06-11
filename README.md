@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
-</p>
-
 <h3> Hey there👋! I'm Purushottam Kunwar.</h2>
 <h2> Currently working as a Software Engineer </h2>
 
@@ -13,7 +9,7 @@
 <br>
 
 ## 🛠 &nbsp;Languages and Tools
-
+<p align="center">
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code paddingLeft="20px"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code paddingLeft="20px"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -28,6 +24,7 @@
 <code><img height="30" src="https://img2.pngio.com/how-to-contribute-to-serverless-open-source-projects-serverless-framework-png-800_800.png"></code>
 <code><img height="30" src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"></code>
 <code><img height="30" src="https://www.cypress.io/static/cypress-io-logo-social-share-8fb8a1db3cdc0b289fad927694ecb415.png"></code>
+  </p>
 <br />
 <br />
 
