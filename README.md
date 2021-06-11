@@ -11,10 +11,6 @@
 - 💼 &nbsp; Learning about React And Node Application Development
 
 <br>
-<p align="left"> <img src="https://avatars.githubusercontent.com/u/41355123?v=4" alt="pk" /> </p>
-
-[![LinkedIn](https://img.shields.io/badge/-Prathmesh%20Jadhav-blue?style=plastic&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/prathmesh-jadhav-4933ab172/)](https://www.linkedin.com/in/purushottam-kunwar-543032179/)
-[![Gmail Badge](https://img.shields.io/badge/-prajadhav1243@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:prajadhav1243@gmail.com)](mailto:pipalpurus.com)
 
 ## 🛠 &nbsp;Tech Stack
 
