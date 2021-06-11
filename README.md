@@ -31,7 +31,8 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![DynamoDB](https://logowik.com/content/uploads/images/t_aws-dynamodb5235.jpg)
+  ![PostgreSQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![DynamoDB](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
