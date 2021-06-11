@@ -38,8 +38,6 @@
 
 ## 📈 Stats
 
-![Purushottam's github stats](https://github-readme-stats.vercel.app/api?username=purushottam-kunwar&hide=["issues"]&show_icons=true&line_height=30)
-
-![Purushottam's Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=purushottam-kunwar&theme=buefy&layout=compact&langs_count=10)
+![Purushottam's github stats](https://github-readme-stats.vercel.app/api?username=purushottam-kunwar&hide=["issues"]&show_icons=true&line_height=30) [Purushottam's Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=purushottam-kunwar&theme=buefy&layout=compact&langs_count=10)
 
           ----------------------------------------------------------------------------------------------------------------
