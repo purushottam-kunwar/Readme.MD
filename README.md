@@ -8,7 +8,7 @@
 ## 👨🏻‍💻 &nbsp;About Me
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 💼 &nbsp; Learning about React Nad Node Application Development
+- 💼 &nbsp; Learning about React And Node Application Development
 
 <br>
 <p align="left"> <img src="https://avatars.githubusercontent.com/u/41355123?v=4" alt="pk" /> </p>
@@ -31,7 +31,7 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![DynamoDB]
+  ![DynamoDB](https://logowik.com/content/uploads/images/t_aws-dynamodb5235.jpg)
   ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
