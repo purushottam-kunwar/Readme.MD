@@ -24,6 +24,7 @@
 <code><img height="30" src="https://img2.pngio.com/how-to-contribute-to-serverless-open-source-projects-serverless-framework-png-800_800.png"></code>
 <code><img height="30" src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"></code>
 <code><img height="30" src="https://www.cypress.io/static/cypress-io-logo-social-share-8fb8a1db3cdc0b289fad927694ecb415.png"></code>
+  <code><img height="30" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg"></code>
   </p>
 <br />
 <br />
